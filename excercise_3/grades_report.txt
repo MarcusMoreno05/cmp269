@@ -1,0 +1,4 @@
+Student: Alice_Smith Average: 84.33333333333333
+Student: Tim_Ally Average: 76.66666666666667
+Student: Mike_Honey Average: 66.66666666666667
+Student: Wild_Rick Average: 80.0
