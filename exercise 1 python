@@ -1,0 +1,27 @@
+def exercise_1():
+    course = "CMP 269"
+    students = 25
+    print(f"The course {course} has {students} students.")
+
+def exercise_2():
+    colors = ["red", "blue", "green", "yellow", "purple"]
+    colors.append("orange")
+    student = {"name": "Marcus", "gpa": 3.5}
+    print("Colors:", colors)
+    print("Student info:", student)
+
+def exercise_3():
+    numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    evens = []
+    for num in numbers:
+        if num % 2 == 0:
+            evens.append(num)
+    print("Numbers:", numbers)
+    print("Even numbers:", evens)
+print("------------------")
+exercise_1()
+print("------------------")
+exercise_2()
+print("------------------")
+exercise_3()
+print("------------------")
