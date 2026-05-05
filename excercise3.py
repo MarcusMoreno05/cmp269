@@ -22,7 +22,6 @@ class LabCourse(LehmanCourse):
         self.lab_fee = lab_fee
 
     def display_info(self):
-        # Extend parent behavior
         print(f"Course: {self.course_name} | Credits: {self.credits} | "
               f"Enrolled: {self._student_count} | Lab Fee: ${self.lab_fee}")
 
