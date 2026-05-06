@@ -1,3 +1,5 @@
+# This is the practice for 04/30 not for 05/05
+
 class LehmanCourse:
     def __init__(self, course_name, credits):
         self.course_name = course_name
